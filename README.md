@@ -19,6 +19,34 @@ The BigEarthNet dataset serves as a valuable resource for Earth Observation (EO)
 - `preprocess_images_till_10K.ipynb`: Notebook detailing data preprocessing steps until the first 10,000 samples.
 - `test_model.ipynb`: Notebook dedicated to testing a specific model with the BigEarthNet dataset.
 
+## Requirements
+
+### Python Libraries and Modules:
+
+The following Python libraries are used in this project:
+
+- numpy
+- json
+- matplotlib
+- PIL (Python Imaging Library)
+- glob
+- earthpy
+- rasterio
+- plotly
+- torch
+- torchvision
+- scikit-image
+- torch.nn
+- torch.utils.data
+- time
+- os
+- cv2 (OpenCV)
+- copy
+- sklearn.model_selection
+- torchvision.utils
+
+These libraries provide various functionalities for numerical computations, data manipulation, visualization, machine learning, image processing, and model handling.
+
 ## Work Description
 
 The notebooks within this repository encompass a wide range of tasks and experiments related to the BigEarthNet dataset:
