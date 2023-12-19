@@ -1,6 +1,6 @@
 # BigEarthNet
 
-This repository contains work related to the BigEarthNet dataset for the Design Project Semester 7 at the Indian Institute of Information Technology Design and Manufacturing Kurnool.
+This repository contains work related to the [BigEarthNet dataset](https://bigearth.net/downloads/BigEarthNet-S2-v1.0.tar.gz) for the Design Project Semester 7 at the Indian Institute of Information Technology Design and Manufacturing Kurnool.
 
 ## Overview
 
